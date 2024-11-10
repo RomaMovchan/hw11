@@ -14,3 +14,5 @@ firstObservable
     .subscribe(data1 => {
         console.log("Вкладений subscribe: 2", data1);
     })
+
+
